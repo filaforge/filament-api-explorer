@@ -1,17 +1,17 @@
 {
-  "name": "filaforge/api-explorer",
+  "name": "filaforge/filament-api-explorer",
   "version": "0.1.0",
   "description": "API Explorer plugin for testing API endpoints similar to Postman",
   "type": "library",
   "license": "MIT",
   "keywords": ["Laravel", "Filament", "Platform"],
-  "homepage": "https://github.com/filaforge/api-explorer",
+  "homepage": "https://github.com/filaforge/filament-api-explorer",
   "authors": [
     { "name": "Filaforge" }
   ],
   "support": {
     "email": "filaforger@gmail.com",
-  "source": "https://github.com/filaforge/api-explorer"
+  "source": "https://github.com/filaforge/filament-api-explorer"
   },
   "require": {
   "php": ">=8.1",
