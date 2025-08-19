@@ -1,5 +1,5 @@
 {
-  "name": "filaforge/filament-api-explorer",
+  "name": "filament/api-explorer",
   "version": "0.1.0",
   "description": "API Explorer plugin for testing API endpoints similar to Postman",
   "type": "library",
